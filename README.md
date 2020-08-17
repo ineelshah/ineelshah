@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I learn new technologies quickly. Don't believe me? Try me!
 
 ![image title](https://rushter.com/counter.svg)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
