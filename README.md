@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I learn new technologies quickly. Don't believe me? Try me!
 
+![image title](https://rushter.com/counter.svg)
