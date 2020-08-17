@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I learn new technologies quickly. Don't believe me? Try me!
 
 # Let's talk numbers!
-![](https://komarev.com/ghpvc/?username=ineelshah&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=ineelshah)
 
-
-## Some of my Github Stats
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ineelshah&show_icons=true&include_all_commits=true)](https://github.com/ineelshah/github-readme-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ineelshah&layout=compact)](https://github.com/ineelshah/github-readme-stats)
