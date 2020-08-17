@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ineelshah&show_icons=true&include_all_commits=true)]
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ineelshah&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ineelshah&layout=compact)
 
 <!-- ![](https://github-readme-stats.vercel.app/api/pin/?username=ineelshah&repo=)] -->
 
-![](https://github-readme-stats.vercel.app/api?username=ineelshah)]
+[![](https://github-readme-stats.vercel.app/api?username=ineelshah)]
