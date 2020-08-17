@@ -16,18 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I learn new technologies quickly. Don't believe me? Try me!
 
 # Let's talk numbers!
-![](https://komarev.com/ghpvc/?username=ineelshah)
 
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ineelshah&show_icons=true&include_all_commits=true)](https://github.com/ineelshah/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ineelshah&show_icons=true&include_all_commits=true)]
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ineelshah&layout=compact)](https://github.com/ineelshah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ineelshah&layout=compact)]
 
+<!-- ![](https://github-readme-stats.vercel.app/api/pin/?username=ineelshah&repo=)] -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ineelshah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://github-readme-stats.vercel.app/api/pin/?username=ineelshah&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://github-readme-stats.vercel.app/api?username=ineelshah&hide=contribs,prs)
-
-![](https://github-readme-stats.vercel.app/api?username=ineelshah)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=ineelshah)]
