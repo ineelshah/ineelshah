@@ -11,7 +11,7 @@
 [<img align="left" alt="ineelshah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ineelshah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ineelshah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<br>
 Summary:
 I am a Java and Python Developer, working on projects in Data Science to make sure I learn from them.
 
