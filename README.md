@@ -29,7 +29,6 @@ I am a Java and Python Developer, working on projects in Data Science to make su
 ![](https://komarev.com/ghpvc/?username=ineelshah&style=plastic)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ineelshah&show_icons=true&include_all_commits=true&count_private=true)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ineelshah&layout=compact)
 
 
