@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I learn new technologies quickly. Don't believe me? Try me!
 
-![image title](https://rushter.com/counter.svg)
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+# Let's talk numbers!
+![](https://komarev.com/ghpvc/?username=ineelshah&style=flat-square)
+
+
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=ineelshah alt=ineelshah /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ineelshah&show_icons=true&include_all_commits=true)](https://github.com/ineelshah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ineelshah&layout=compact)](https://github.com/ineelshah/github-readme-stats)
