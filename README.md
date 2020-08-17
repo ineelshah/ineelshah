@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with React Framework.
 - 💬 Ask me about any tech related stuff or coding related questions.
 - 📫 How to reach me: neelshah.2798@gmail.com
+                       linkedin.com/in/ineelshah
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I learn new technologies quickly. Don't believe me? Try me!
 
@@ -25,3 +26,10 @@ Here are some ideas to get you started:
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api/pin/?username=ineelshah&repo=)] -->
+
+### Connect with me
+
+[<img align="left" alt="ineelshah | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="ineelshah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ineelshah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ineelshah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
