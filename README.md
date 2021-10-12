@@ -1,4 +1,4 @@
-# Hey there, I am Neel Shah! 👋
+# Hey there, I am Neel Kamlesh Shah! 👋
 
 <!--
 **ineelshah/ineelshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,15 +13,15 @@
 
 
 # Summary:
-I am a Java and Python Developer, working on projects in Data Science to make sure I learn from them.
+I am a Java and Python Developer, with experience in software engineeing in languages and technologies like Java, Python, Spring Boot, Spring Batch, SQL, Spark. I am currently working on projects in Data Science to make sure I can make sense from any data that is given to me.
 <br>
 
-- 🔭 I’m currently working on my Portfolio Website.
-- 🌱 I’m currently learning Spring Framework.
+- 🔭 I’m currently working on my Portfolio Website and a Dashboard Application.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on Github or YouTube.
 - 🤔 I’m looking for help with React Framework.
 - 💬 Ask me about any tech related stuff or coding related questions.
-- 📫 How to reach me: neelshah.2798@gmail.com
+- 📫 How to reach me: nshah26@ncsu.edu
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I learn new technologies quickly. Don't believe me? Try me!
 
